@@ -47,18 +47,18 @@ The dashboard helps in tracking key business metrics and identifying trends to s
 ## 📷 Dashboard Preview
 
 ### 🔹 Main Dashboard
-![Dashboard](Dashboard.png)
+![Sales Dashboard](sales-dashboard-overview.png)
 
 ### 🔹 MTD Report
-![MTD](MTD.png)
+![Monthly Trend (MTD)](monthly-trend-mtd.png)
 
 ### 🔹 Same Period Last Year (SPLY)
-![SPLY](SPLY.png)
+![Year-over-Year (SPLY)](year-over-year-sply.png)
 
 ---
 
 ## 📌 Key Insights
-- Sales show consistent growth trend over months
+- Sales show a consistent upward trend over time, indicating growing demand
 - Certain cities contribute significantly to total revenue
 - Top mobile models drive majority of sales
 - Seasonal trends impact sales performance
@@ -66,10 +66,10 @@ The dashboard helps in tracking key business metrics and identifying trends to s
 ---
 
 ## 📂 Project Files
-- `Android_sales_dashboard.pbix` → Power BI file
-- `Dashboard.png` → Main dashboard view
-- `MTD.png` → Monthly trend analysis
-- `SPLY.png` → Year-over-year comparison
+- `android-phone-sales.pbix` → Power BI file
+- `sales-dashboard-overview.png` → Main dashboard view
+- `monthly-trend-mtd.png` → Monthly trend analysis
+- `year-over-year-sply.png` → Year-over-year comparison
 
 ---
 
@@ -79,5 +79,5 @@ This dashboard enables businesses to monitor performance, identify trends, and m
 ---
 
 ## 📬 Contact
-- LinkedIn: (www.linkedin.com/in/ambikejaiswal)
+- LinkedIn: https://www.linkedin.com/in/ambikejaiswal
 
